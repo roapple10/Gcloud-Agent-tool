@@ -1,12 +1,5 @@
-# Gcloud-Agent-tool
+# GCP Agent
 
-A tool for managing and interacting with Google Cloud Platform services.
+A powerful agent that can answer questions about weather, time, and Google Cloud Platform resources using the gcloud CLI.
 
-## Overview
-This repository contains tools and utilities for GCP management and automation.
-
-## Setup
-More details coming soon...
-
-## Usage
-Documentation will be added as the project develops.
+[... rest of README content ...]
