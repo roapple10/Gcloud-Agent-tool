@@ -166,7 +166,7 @@ def gcp_tool(query: str) -> Dict[str, Any]:
     elif re.search(r"list\s+(?:all\s+)?(?:gcp\s+)?buckets", query, re.IGNORECASE):
         # Use gsutil format for storage ls command
         import os
-        gcloud_path = os.environ.get('GCLOUD_PATH', r"C:\Users\roapp\AppData\Local\Google\Cloud SDK\google-cloud-sdk\bin\gcloud.cmd")
+        gcloud_path = os.environ.get('GCLOUD_PATH')
         args = [gcloud_path, "storage", "ls", "--format=gsutil"]
         
         try:

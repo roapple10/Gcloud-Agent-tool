@@ -21,4 +21,8 @@ build/
 *.egg-info/
 
 # Logs
+<<<<<<< HEAD
 *.log 
+=======
+*.log
+>>>>>>> fbb49d5424923038e9a283c41b3687d9d2cae89b

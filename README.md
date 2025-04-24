@@ -2,6 +2,7 @@
 
 A powerful agent that can answer questions about weather, time, and Google Cloud Platform resources using the gcloud CLI.
 
+<<<<<<< HEAD
 ## Prerequisites
 
 - Python 3.8 or higher
@@ -232,3 +233,6 @@ which gcloud
 
 - If you don't set the `GCLOUD_PATH` environment variable, the agent will fall back to a default path, which may not work on your system
 
+=======
+[... rest of README content ...]
+>>>>>>> fbb49d5424923038e9a283c41b3687d9d2cae89b
