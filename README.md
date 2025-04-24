@@ -233,6 +233,3 @@ which gcloud
 
 - If you don't set the `GCLOUD_PATH` environment variable, the agent will fall back to a default path, which may not work on your system
 
-=======
-[... rest of README content ...]
->>>>>>> fbb49d5424923038e9a283c41b3687d9d2cae89b
